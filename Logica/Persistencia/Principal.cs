@@ -17,6 +17,7 @@ namespace Persistencia
         {
             get
             {
+                //ME PODES EXPLICAR QUE HICISTE ACA? xd
                 if (principal == null)
                 {
                     principal = new Principal();
